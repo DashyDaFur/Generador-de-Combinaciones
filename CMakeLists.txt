@@ -9,4 +9,3 @@ add_executable(combinaciones
   src/aux.cpp
   src/combinatoria.cpp
 )
-)
