@@ -4,6 +4,6 @@
 template <typename T>
 void CapturarNumero(T &n, const char seleccion[]);
 
-#include "CapturaSegura.tpp"
+#include "../src/CapturaSegura.tpp"
 
 #endif // CAPTURASEGURA_HPP_INCLUDE
