@@ -1,9 +1,9 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include "combinatoria.hpp"
-#include "aux.hpp"
-#include "CapturaSegura.hpp"
+#include "../include/combinatoria.hpp"
+#include "../include/aux.hpp"
+#include "../include/CapturaSegura.hpp"
 
 using namespace std;
 
