@@ -1,4 +1,6 @@
 #include "../include/combinatoria.hpp"
+#include "../include/aux.hpp"
+#include <iostream>
 #include <vector>
 
 unsigned long long CalcularCombinaciones(int n, int r)
